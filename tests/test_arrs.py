@@ -1,4 +1,4 @@
-from utils import arrs
+from pytest_proj.utils import arrs
 
 
 def test_get():
